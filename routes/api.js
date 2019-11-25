@@ -1,6 +1,5 @@
 var express = require('express');
 var router = express.Router();
-var models = require('../models/index');
 
 // test routes
 var testController = require('../controllers/test');
